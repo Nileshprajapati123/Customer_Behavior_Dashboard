@@ -1,21 +1,85 @@
-🛠️ How to Use This Project
-1.Open Customer_Shopping_Behavior_Analysis.ipynb notebook
-	This file contains:
-	Data Import
-	Data exploration
-	Data cleaning
-	Connection to SQL Database.
+# Customer Behavior Analysis
 
-2. Load the data from a Python notebook into MySQL/PostgreSQL/MS SQL Server
-	Create a database in SQL
-	Run Python code to load data into SQL database
-	Open customer_behavior_sql_queries.sql
-	Answer Business Questions using SQL Queries.
+## 📌 Project Overview
 
-3. Connect the SQL Database to Power BI
-	Open customer_behavior_dashboard.pbix
-	Create an interactive dashboard in Power BI.
+This project focuses on analyzing customer shopping behavior for a retail company to uncover meaningful patterns and trends. The goal is to understand how factors such as demographics, product categories, discounts, seasons, reviews, and payment preferences influence purchasing decisions and repeat behavior.
 
-4. Create Project Report and Presentation
-	Create project report
-	Build a presentation deck using Gamma AI
+By leveraging **Python, SQL, and Power BI**, the project delivers data-driven insights that help improve sales performance, customer engagement, and long-term loyalty.
+
+---
+
+## 🎯 Business Objective
+
+To answer the core business question:
+
+**“How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?”**
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+* **Python**: Data cleaning, preprocessing, and exploratory analysis
+* **SQL**: Data modeling, segmentation, and insight-driven queries
+* **Power BI**: Interactive dashboards and visual storytelling
+
+---
+
+## 📂 Project Structure
+
+```
+Customer-Behavior-Analysis/
+│
+├── data/                 # Raw and cleaned datasets
+├── python/               # Data preparation & analysis scripts
+├── sql/                  # SQL queries for insights and segmentation
+├── powerbi/              # Power BI dashboard file
+├── reports/              # Final report and presentation
+└── README.md             # Project documentation
+```
+
+---
+
+## 🔍 Key Analysis Areas
+
+* Customer demographics and purchasing patterns
+* Product category performance
+* Online vs offline sales comparison
+* Impact of discounts, reviews, and seasons on sales
+* Customer loyalty and repeat purchase behavior
+
+---
+
+## 📊 Dashboard Highlights
+
+The Power BI dashboard provides:
+
+* Sales and revenue trends
+* Customer segmentation insights
+* Top-performing products and categories
+* Key drivers influencing customer purchases
+
+---
+
+## 📈 Business Impact
+
+* Improved understanding of customer behavior
+* Better targeted marketing strategies
+* Enhanced customer engagement and retention
+* Data-backed product and pricing decisions
+
+---
+
+## 📑 Deliverables
+
+* Cleaned and modeled dataset (Python)
+* SQL queries for business insights
+* Interactive Power BI dashboard
+* Analytical report and presentation
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates how data analytics can transform raw consumer data into actionable business insights, enabling retail companies to make smarter, customer-centric decisions.
+
+---
